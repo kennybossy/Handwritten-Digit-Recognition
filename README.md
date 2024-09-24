@@ -1,4 +1,3 @@
-# Handwritten-Digit-Recognition
 # Handwritten Digit Recognition using Neural Networks
 
 ## Project Overview
